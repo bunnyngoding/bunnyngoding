@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **bunnyngoding/bunnyngoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Halo semua! 
+
+Perkenalkan nama saya **Bunny Ngoding**.\
+
+Saya seorang **Mahasiswa** di [Universitas Gadjah Mada](https://www.dcse.fmipa.ugm.ac.id).\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/dyandraaulia/)ku ya.
